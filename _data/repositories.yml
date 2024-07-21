@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aravind-3105
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - aravind-3105/Retinal-Blood-Vessels-Segmentation-and-Denoising
+  - aravind-3105/Time-scaling-based-collision-avoidance-maneuvers
+  - aravind-3105/Bernstein-Polynomial-Trajectories
+  - aravind-3105/Stereo-Reconstruction-PnP-and-Bundle-Adjustment
+  - aravind-3105/DLT-and-Epipolar-Lines
+  - aravind-3105/Rapidly-Exploding-Trees
