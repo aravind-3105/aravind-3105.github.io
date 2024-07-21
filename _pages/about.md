@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: ECE Grad at University of Toronto
+subtitle: <b>ECE Grad at University of Toronto</b>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hii I'm Aravind!</p>
+    <p>Hii I'm Aravind, nice to e-meet you!</p>
 
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
@@ -27,12 +27,17 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- ### About Me -->
 
-Hello! I'm Aravind Narayanan, a Master of Engineering student in Electrical and Computer Engineering at the University of Toronto. I hold a Bachelor's degree in Electronics and Communication Engineering from IIIT Hyderabad, where I developed a passion for deep learning, computer vision, and robotics.
+Hello! I'm a first year Master's student at the **University of Toronto**, majoring in Electrical and Computer Engineering with a specialization in Robotics and Analytics. I am passionate about developing AI-driven solutions for real-world problems and have a keen interest in computer vision, deep learning, and robotics.
 
-I've gained valuable experience through internships and research roles, including developing monocular depth estimation pipelines at the Neural Robotics Lab and advancing AI techniques for data management at the Laboratory for Applied Informatics Research. As a Python Developer at the Bernhardt-Walther Lab, I created tools to study mid-level vision systems.
+ I’m currently working on developing monocular depth estimation pipelines for human-robot walking environments at the [Neural Robotics Lab](https://neuralroboticslab.org/) and advancing AI techniques for data management at the [Laboratory for Applied Informatics Research (LAIRHub)](https://lairhub.org/). As a Python Developer at the [Bernhardt-Walther Lab](https://bernhardt-waltherlab.org/), I created tools to study mid-level vision systems and optimized image processing pipelines.
 
-My projects span autonomous vehicle navigation, AI-driven health monitoring, and mood classification in song lyrics using deep learning. I am proficient in programming languages like C, C++, Python, and MATLAB, and have expertise in frameworks such as PyTorch, TensorFlow, and ROS.
+I am proficient in a wide range of programming languages including C, C++, Python, MATLAB, R, JavaScript, and Bash. My expertise extends to frameworks such as PyTorch, TensorFlow, OpenCV, ROS, and PyBullet, which I utilize for developing complex AI and robotics applications. Additionally, I have experience with various tools and databases, including SQL, MongoDB, PostgreSQL, Docker, Kubernetes, AWS, GCP, Git, and VS Code. This diverse skill set enables me to tackle a variety of technical challenges and contribute effectively to interdisciplinary projects.
 
-Academically, I've been recognized on the Dean’s and Merit List and have held leadership roles as Marketing Head in the Entrepreneurship Cell and Robotics Club Head. I am passionate about using technology to solve real-world problems and continuously exploring new engineering and science frontiers.
+Previously, I completed my Bachelor’s degree in Electronics and Communication Engineering from **[IIIT Hyderabad](https://www.iiit.ac.in/)**, where I was lucky to be working with [Dr. Nagamanikandan Govindan](https://nagamanigi.wixsite.com/home) on mobile manipulation at the [Robotics Research Center](https://robotics.iiit.ac.in/). I also worked with [Dr. Ponnurangam Kumaraguru](https://www.iiit.ac.in/faculty/ponnurangam-kumaraguru/) on elections analysis and fraud detection at the [Precog Research Group](https://precog.iiit.ac.in/).
 
-Thank you for visiting my website!
+Academically, I’ve been recognized on the **Dean’s and Merit List for five semesters** and have held leadership roles as Marketing Head in the Entrepreneurship Cell and Robotics Club Head. I am passionate about using technology to solve real-world problems and continuously exploring new engineering and science frontiers.
+
+
+
+
+<!-- Thank you for visiting my website! -->
