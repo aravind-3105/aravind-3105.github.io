@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- ### About Me -->
 
-Hello! I'm a first year Master's student at the **University of Toronto**, majoring in Electrical and Computer Engineering with a specialization in Robotics and Analytics. I am passionate about developing AI-driven solutions for real-world problems and have a keen interest in computer vision, deep learning, and robotics.
+Hello! I'm a second year Master's student at the **University of Toronto**, majoring in Electrical and Computer Engineering with a specialization in Robotics and Analytics. I am passionate about developing AI-driven solutions for real-world problems and have a keen interest in computer vision, deep learning, and robotics.
 
  I’m currently working on developing monocular depth estimation pipelines for human-robot walking environments at the [Neural Robotics Lab](https://neuralroboticslab.org/) and advancing AI techniques for data management at the [Laboratory for Applied Informatics Research (LAIRHub)](https://lairhub.org/). As a Python Developer at the [Bernhardt-Walther Lab](https://bernhardt-waltherlab.org/), I created tools to study mid-level vision systems and optimized image processing pipelines.
 
