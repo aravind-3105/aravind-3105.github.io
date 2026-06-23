@@ -1,20 +1,20 @@
 {
   "basics": {
     "name": "Aravind Narayanan",
-    "label": "Engineer",
+    "label": "Associate Applied Machine Learning Specialist",
     "image": "",
-    "email": "aravind.narayanan@mail.utoronto.ca",
+    "email": "aravindnv1308@gmail.com",
     "phone": "(437) 858-1308",
     "GitHub": "https://github.com/aravind-3105",
-    // "website": "https://aravind3105.github.io/",
+    // "website": "https://aravind-3105.github.io/",
     // "linkedin": "https://www.linkedin.com/in/aravind-n-774665144/",
-    "summary": "An aspiring engineer with a strong background in Electrical and Computer Engineering, specializing in areas such as deep learning, computer vision, and robotics.",
+    "summary": "Machine learning researcher and engineer specializing in explainability, multimodal AI, and agentic systems. Associate Applied Machine Learning Specialist at the Vector Institute, Toronto.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": [
       {
@@ -25,6 +25,21 @@
     ]
   },
   "work": [
+    {
+      "name": "Vector Institute",
+      "position": "Associate Applied Machine Learning Specialist",
+      "url": "https://vectorinstitute.ai/",
+      "startDate": "2025-06-01",
+      "endDate": "Present",
+      "summary": "Full-time ML specialist working on explainability, multimodal AI, and agentic systems.",
+      "highlights": [
+        "Technical Lead for the Interpretability in LLMs and Agents Bootcamp for industry sponsor companies.",
+        "Technical Lead for the Machine Learning Applications (MLA) Program for industry sponsor companies.",
+        "Research on AgentFinVQA: multi-agent pipeline for auditable financial chart QA (under review).",
+        "Research on explainability in traditional and agentic AI systems — accepted at FTC 2026.",
+        "Co-developed VLDBench, a 62K-sample multimodal disinformation detection benchmark (under review)."
+      ]
+    },
     {
       "name": "Neural Robotics Lab",
       "position": "Computer Vision Summer Intern",

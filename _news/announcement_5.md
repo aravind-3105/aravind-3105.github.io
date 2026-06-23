@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m excited to share that my paper, **"VLDBench: A Benchmark for Disinformation Detection in Vision-Language Models"**, is currently under review for **ACL 2025**. This research focuses on developing evaluation frameworks for **Vision-Language Models** and addressing social biases in multimodal AI systems.
-
-Stay tuned for more updates on this project!
+Our paper **"VLDBench: Evaluating Multimodal Disinformation with Regulatory Alignment"** has been accepted at **Information Fusion (Elsevier)**! VLDBench is a 62K-sample benchmark for multimodal disinformation detection across 13 categories, curated from 58 news outlets and aligned with AI governance frameworks. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525011546) | [Project](https://vectorinstitute.github.io/VLDBench/)
