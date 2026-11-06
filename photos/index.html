@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="ink">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Photography — Aravind Narayanan</title>
+    <meta
+      name="description"
+      content="Photography and travel by Aravind Narayanan. Field notes and frames from the road."
+    />
+    <meta name="theme-color" content="#0c0d0b" />
+    <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400;1,9..144,600&family=IBM+Plex+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <div class="noise" aria-hidden="true"></div>
+
+    <header class="page-bar">
+      <a class="wordmark" href="../">Aravind Narayanan</a>
+      <nav class="page-bar-nav">
+        <a href="../#research">Research</a>
+        <a href="./" aria-current="page">Photography</a>
+        <a href="../notes/">Writing</a>
+      </nav>
+      <div class="theme-switch" role="group" aria-label="Color theme">
+        <button type="button" data-theme-set="ink" aria-pressed="true">Dark</button>
+        <button type="button" data-theme-set="paper" aria-pressed="false">Light</button>
+      </div>
+    </header>
+
+    <main id="main" class="page">
+      <p class="kicker">Photography · travel</p>
+      <h1>Field notes</h1>
+      <p class="lede page-lede">
+        Stillness, roads, and light — a second notebook besides the research. New frames and travel essays will land
+        here.
+      </p>
+      <div id="gallery" class="gallery" data-photos="../assets/photos.json" data-img-base="../assets/photos/"></div>
+      <p class="fine"><a href="../">← Back</a></p>
+    </main>
+
+    <div class="lightbox" id="lightbox" hidden>
+      <button type="button" class="lightbox-close" data-lightbox-close aria-label="Close">Close</button>
+      <img alt="" />
+      <p class="lightbox-cap"></p>
+    </div>
+
+    <script src="../app.js"></script>
+  </body>
+</html>

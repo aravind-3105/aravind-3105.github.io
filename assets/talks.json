@@ -1,0 +1,26 @@
+{
+  "ftc-2026": [
+    { "file": "FTC_2.jpg", "caption": "Title slide" },
+    { "file": "FTC_3.jpg", "caption": "Session" },
+    { "file": "FTC_1.jpg", "caption": "Presenting" },
+    { "file": "FTC_4.jpg", "caption": "Certificate" }
+  ],
+  "humanibench": [
+    { "file": "poster.jpg", "caption": "NeurIPS 2025 poster" }
+  ],
+  "bias-in-the-picture": [
+    { "file": "poster.jpg", "caption": "NeurIPS 2025 poster" }
+  ],
+  "neurips-2025": [
+    { "file": "venue.jpg", "caption": "San Diego" }
+  ],
+  "toronto-robotics-2024": [
+    { "file": "poster.jpg", "caption": "Toronto Robotics Conference" }
+  ],
+  "uoft": [
+    { "file": "joining.jpg", "caption": "University of Toronto" }
+  ],
+  "mcmaster": [
+    { "file": "internship.jpg", "caption": "Internship" }
+  ]
+}
