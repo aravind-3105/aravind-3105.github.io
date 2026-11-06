@@ -3,12 +3,9 @@
     "name": "Aravind Narayanan",
     "label": "Associate Applied Machine Learning Specialist",
     "image": "",
-    "email": "aravindnv1308@gmail.com",
-    "phone": "(437) 858-1308",
-    "GitHub": "https://github.com/aravind-3105",
-    // "website": "https://aravind-3105.github.io/",
-    // "linkedin": "https://www.linkedin.com/in/aravind-n-774665144/",
-    "summary": "Machine learning researcher and engineer specializing in explainability, multimodal AI, and agentic systems. Associate Applied Machine Learning Specialist at the Vector Institute, Toronto.",
+    "email": "aravind.narayanan@vectorinstitute.ai",
+    "url": "https://aravind-3105.github.io/",
+    "summary": "Applied machine learning specialist at the Vector Institute, working on model evaluation, Responsible AI, multimodal foundation models, and agentic systems.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,6 +18,16 @@
         "network": "LinkedIn",
         "username": "Aravind Narayanan",
         "url": "https://www.linkedin.com/in/aravind-n-774665144/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Aravind Narayanan",
+        "url": "https://scholar.google.com/citations?user=KCVuy2UAAAAJ"
+      },
+      {
+        "network": "GitHub",
+        "username": "aravind-3105",
+        "url": "https://github.com/aravind-3105"
       }
     ]
   },
@@ -29,71 +36,90 @@
       "name": "Vector Institute",
       "position": "Associate Applied Machine Learning Specialist",
       "url": "https://vectorinstitute.ai/",
+      "location": "Toronto, ON",
       "startDate": "2025-06-01",
       "endDate": "Present",
-      "summary": "Full-time ML specialist working on explainability, multimodal AI, and agentic systems.",
+      "summary": "Applied research in model evaluation, Responsible AI, multimodal AI, and agentic systems.",
       "highlights": [
-        "Technical Lead for the Interpretability in LLMs and Agents Bootcamp for industry sponsor companies.",
-        "Technical Lead for the Machine Learning Applications (MLA) Program for industry sponsor companies.",
-        "Research on AgentFinVQA: multi-agent pipeline for auditable financial chart QA (under review).",
-        "Research on explainability in traditional and agentic AI systems — accepted at FTC 2026.",
-        "Co-developed VLDBench, a 62K-sample multimodal disinformation detection benchmark (under review)."
+        "Contribute to HumaniBench, VLDBench, LinguaMark, AgentFinVQA, FairSense-AgentiX, UnBias-Plus, and work on efficient Responsible-AI evaluation and explainability for agentic systems.",
+        "Technical Lead for the Interpretability in LLMs and Agents Bootcamp, mentoring about 100 participants across 20 industry teams.",
+        "Technical Lead for the Fall MLA Program, providing technical direction and mentorship on applied ML projects.",
+        "Research accepted or published at ACM TIST, Information Fusion, JOSS, NeurIPS workshops, ASONAM, and FTC."
       ]
     },
     {
-      "name": "Neural Robotics Lab",
-      "position": "Computer Vision Summer Intern",
-      "url": "",
-      "startDate": "2024-05-01",
-      "endDate": "2024-09-01",
-      "summary": "Developed a novel pipeline for monocular depth estimation, enabling accurate reconstruction of human-robot walking environments from 2D images.",
+      "name": "Vector Institute",
+      "position": "Applied AI Intern",
+      "url": "https://vectorinstitute.ai/",
+      "location": "Toronto, ON",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-01",
+      "summary": "Internship with the AI Engineering team on evaluation frameworks for multimodal large language models.",
       "highlights": [
-        "Achieved 82.6% accuracy in stair height prediction and 81.4% accuracy in depth estimation.",
-        "Collected and made a custom image dataset using Intel RealSense depth cameras."
+        "Developed evaluation pipelines for vision-language models, fairness, and disinformation detection.",
+        "Contributed to HumaniBench and VLDBench during the internship-to-full-time transition."
       ]
     },
     {
       "name": "Laboratory for Applied Informatics Research",
       "position": "Research Assistant",
-      "url": "",
+      "url": "https://lairhub.com/",
+      "location": "Toronto, ON",
       "startDate": "2024-05-01",
-      "endDate": "Present",
+      "endDate": "2025-01-01",
       "summary": "Advanced clustering and labeling for the PATTIE database using AI techniques, improving data management and retrieval.",
       "highlights": [
-        "Enhanced searchability and user experience through refined data categorization."
+        "Worked with Prof. Javed Mostafa on ML-driven news clustering and information retrieval."
+      ]
+    },
+    {
+      "name": "Neural Robotics Lab",
+      "position": "Computer Vision Intern",
+      "url": "https://neuralroboticslab.org/",
+      "location": "Toronto, ON",
+      "startDate": "2024-05-01",
+      "endDate": "2024-09-01",
+      "summary": "Monocular depth estimation for human-robot walking environments.",
+      "highlights": [
+        "Achieved 82.6% accuracy in stair height prediction and 81.4% accuracy in depth estimation.",
+        "Collected a custom image dataset using Intel RealSense depth cameras.",
+        "Presented a poster at the 2024 Toronto Robotics Conference."
       ]
     },
     {
       "name": "Bernhardt-Walther Lab",
       "position": "Python Developer",
-      "url": "",
+      "url": "https://www.bwlab.org/home",
+      "location": "Toronto, ON",
       "startDate": "2023-10-01",
       "endDate": "2024-08-01",
-      "summary": "Developed the Python version of the Mid-level Vision Toolbox to extract structural properties from images.",
+      "summary": "Developed pyMLV, the Python version of the Mid-level Vision Toolbox, to extract structural properties from images.",
       "highlights": [
-        "Engineered and optimized computational tools to facilitate the study of mid-level representations in both biological and artificial vision systems."
+        "Engineered tools for studying mid-level representations in biological and artificial vision systems."
       ]
     },
     {
       "name": "Robotics and Manufacturing Automation Laboratory",
       "position": "Robotics Software Engineer",
       "url": "",
+      "location": "Toronto, ON",
       "startDate": "2022-05-01",
       "endDate": "2022-08-01",
-      "summary": "Developed software for Collaborative Robots, leveraging machine learning and robotics dynamics.",
+      "summary": "Software for collaborative robots using machine learning and robotics dynamics.",
       "highlights": [
         "Designed a manipulator proficient in gesture recognition, obstacle avoidance, and object transfer to humans."
       ]
     },
     {
-      "name": "Center for Computational Social Science",
+      "name": "Center for Computational Social Science, IIIT Hyderabad",
       "position": "Computational Science Researcher",
-      "url": "",
+      "url": "https://precog.iiit.ac.in/",
+      "location": "Hyderabad, India",
       "startDate": "2022-01-01",
       "endDate": "2023-05-01",
-      "summary": "Analyzed politicians’ social media use, revealing a strong correlation between Twitter engagement and followers.",
+      "summary": "Computational social science research on social media, elections analysis, and fraud detection.",
       "highlights": [
-        "Developed a model using BERT embedding and ML techniques for classification of fraudulent behavior on Play Store."
+        "Analyzed politicians' social media use and built a BERT-based model for Play Store fraud classification."
       ]
     }
   ],
@@ -101,11 +127,11 @@
     {
       "institution": "University of Toronto",
       "location": "Toronto, CA",
-      "url": "",
-      "area": "Electrical and Computer Engineering",
+      "url": "https://www.utoronto.ca/",
+      "area": "Electrical and Computer Engineering (Data Analytics and Machine Learning)",
       "studyType": "Master of Engineering",
       "startDate": "2023-09-01",
-      "endDate": "2025-08-01",
+      "endDate": "2025-05-01",
       "score": "",
       "courses": [
         "Reinforcement Learning",
@@ -115,15 +141,15 @@
         "Financial Engineering"
       ],
       "highlights": [
-        "Presented a poster at 2024 Toronto Robotics Conference."
+        "Poster at the 2024 Toronto Robotics Conference."
       ]
     },
     {
       "institution": "International Institute of Information Technology, Hyderabad",
       "location": "Hyderabad, India",
-      "url": "",
+      "url": "https://www.iiit.ac.in/",
       "area": "Electronics and Communication Engineering",
-      "studyType": "Bachelor of Technology (Honors)",
+      "studyType": "Bachelor of Technology (Honours)",
       "startDate": "2019-07-01",
       "endDate": "2023-05-01",
       "score": "8.97/10.0",
@@ -135,100 +161,156 @@
         "Processor Architecture"
       ],
       "highlights": [
-        "Dean’s and Merit List for five semesters",
-        "Teacher Assistant for Processor Architecture, Systems Thinking, Probability, and Statistical Methods in AI",
-        "Marketing Head in Entrepreneurship Cell",
-        "Robotics Club Head",
-        "Photography Club Head"
+        "Dean's and Merit List for five semesters",
+        "Teaching Assistant for Processor Architecture, Systems Thinking, Probability, and Statistical Methods in AI",
+        "Marketing Head, Entrepreneurship Cell; Robotics Club Head; Photography Club Head"
       ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation",
+      "publisher": "ACM Transactions on Intelligent Systems and Technology",
+      "releaseDate": "2026-10-29",
+      "url": "https://arxiv.org/abs/2505.11454",
+      "summary": "32,000-pair human-centric benchmark for large multimodal models."
+    },
+    {
+      "name": "FairSense-AgentiX: An Agentic Platform for Multi-Modal Fairness and AI Risk Analysis",
+      "publisher": "Journal of Open Source Software",
+      "releaseDate": "2026-10-30",
+      "url": "https://doi.org/10.21105/joss.11060",
+      "summary": "Agentic fairness and AI-risk analysis platform. First author."
+    },
+    {
+      "name": "AgentFinVQA: An Auditable, On-Premise Multi-Agent Pipeline for Financial Chart QA",
+      "publisher": "NeurIPS 2026 Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks",
+      "releaseDate": "2026-09-29",
+      "url": "https://arxiv.org/abs/2606.19782",
+      "summary": "Auditable multi-agent financial chart QA. First author."
+    },
+    {
+      "name": "Stress-Testing Efficient Responsible-AI Evaluation: When Compute Savings Change Benchmark Conclusions",
+      "publisher": "NeurIPS 2026 Trust-AI-Eval Workshop",
+      "releaseDate": "2026-09-27",
+      "url": "https://arxiv.org/abs/2608.31108",
+      "summary": "Shows when evaluation efficiency interventions change RAI benchmark conclusions."
+    },
+    {
+      "name": "VLDBench: Evaluating Multimodal Disinformation with Regulatory Alignment",
+      "publisher": "Information Fusion",
+      "releaseDate": "2025-01-01",
+      "url": "https://arxiv.org/abs/2502.11361",
+      "summary": "62K-sample multimodal disinformation detection benchmark."
+    },
+    {
+      "name": "From Features to Actions: Explainability in Traditional and Agentic AI Systems",
+      "publisher": "Future Technologies Conference",
+      "releaseDate": "2026-01-01",
+      "url": "https://arxiv.org/abs/2602.06841",
+      "summary": "Attribution-based vs. trace-based explainability for static and agentic AI."
+    },
+    {
+      "name": "LinguaMark: Do Multimodal Models Speak Fairly? A Benchmark-Based Evaluation",
+      "publisher": "ASONAM 2025",
+      "releaseDate": "2025-08-01",
+      "url": "https://arxiv.org/abs/2507.07274",
+      "summary": "Multilingual VQA fairness benchmark across 11 languages."
+    },
+    {
+      "name": "Bias in the Picture: Benchmarking VLMs with Social-Cue News Images and LLM-as-Judge Assessment",
+      "publisher": "NeurIPS 2025 LLM Evaluation Workshop",
+      "releaseDate": "2025-09-23",
+      "url": "https://arxiv.org/abs/2509.19659",
+      "summary": "News-image VLM bias benchmark. First author."
     }
   ],
   "projects": [
     {
-      "name": "Lyric Mood Classification with Deep Learning",
-      "summary": "Led a team comparing deep learning and traditional machine learning approaches for mood classification in song lyrics.",
+      "name": "HumaniBench",
+      "summary": "Human-centric evaluation framework for large multimodal models.",
       "highlights": [
-        "Achieved an accuracy of 85.2% using a GPT model with word2vec embedding."
+        "32,000 expert-verified image-question pairs across seven human-centered principles."
       ],
-      // "startDate": "",
-      // "endDate": "",
-      "url": "https://github.com/aravind-3105/MoodSwing"
+      "url": "https://vectorinstitute.github.io/humanibench/"
     },
     {
-      "name": "Autonomous Vehicle Navigation and 3D Environment Mapping",
-      "summary": "Implemented 2D-SLAM with pose-graph optimization and loop-closure constraints for accurate positioning.",
+      "name": "AgentFinVQA",
+      "summary": "Auditable multi-agent pipeline for financial chart question answering.",
       "highlights": [
-        "Employed advanced algorithms for motion planning and collision avoidance in autonomous navigation."
+        "On-premise deployable with traceable Model Evaluation Packets."
       ],
-      // "startDate": "",
-      // "endDate": "",
-      "url": ""
+      "url": "https://github.com/VectorInstitute/AgentFinVQA"
     },
     {
-      "name": "Retinal Blood Vessels Segmentation",
-      "summary": "Built a pipeline for retinal vasculature detection using a morphological hessian-based approach and region-based Otsu thresholding for segmentation and denoising.",
-      "highlights": [],
-      // "startDate": "",
-      // "endDate": "",
-      "url": ""
+      "name": "FairSense-AgentiX",
+      "summary": "Agentic platform for multimodal fairness and AI risk analysis.",
+      "highlights": [
+        "Published in the Journal of Open Source Software."
+      ],
+      "url": "https://github.com/VectorInstitute/fairsense-agentix"
     },
     {
-      "name": "AI-Driven Health Monitoring System on Google Cloud Platform",
-      "summary": "Engineered an end-to-end health monitoring system using AI models to analyze respiratory pulse signals and sleep patterns.",
+      "name": "UnBias-Plus",
+      "summary": "Open-source tool that detects, explains, and rewrites biased language.",
       "highlights": [
-        "Showcased scalable solutions on cloud platforms."
+        "Available as a Python package, CLI, API, and web demo."
       ],
-      // "startDate": "",
-      // "endDate": "",
-      "url": ""
+      "url": "https://github.com/VectorInstitute/unbias-plus"
     }
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Research",
       "level": "",
       "icon": "",
       "keywords": [
-        "C",
-        "C++",
+        "Responsible AI",
+        "Model Evaluation",
+        "Multimodal AI",
+        "Agentic AI",
+        "Fairness and Bias",
+        "Explainability",
+        "AI Safety"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "",
+      "keywords": [
         "Python",
-        "MATLAB",
-        "R",
-        "JavaScript",
+        "C++",
+        "SQL",
         "Bash"
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Frameworks and Tools",
       "level": "",
       "icon": "",
       "keywords": [
         "PyTorch",
-        "TensorFlow",
-        "OpenCV",
-        "Robot Operating System (ROS)",
-        "PyBullet"
-      ]
-    },
-    {
-      "name": "Tools and Databases",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "SQL",
-        "MongoDB",
-        "PostgreSQL",
+        "Hugging Face",
+        "LangChain / CrewAI",
         "Docker",
-        "Kubernetes",
-        "AWS",
         "GCP",
-        "Git",
-        "VS Code"
+        "AWS",
+        "Git"
       ]
     }
   ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Trustworthy AI",
+      "keywords": [
+        "evaluation",
+        "auditability",
+        "safety"
+      ]
+    }
+  ],
   "references": [],
   "certificates": [],
   "awards": [],

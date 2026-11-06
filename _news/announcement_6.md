@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share our new preprint **"AgentFinVQA: A Deployable Multi-Agent Pipeline for Auditable Financial Chart QA"** (with Shaina Raza), currently under review. AgentFinVQA achieves +7.68 pp over zero-shot baselines on FinMME while maintaining full auditability and on-premise deployability. Check it out on [arXiv](https://arxiv.org/abs/2606.19782)!
+Preprint: **[AgentFinVQA](https://arxiv.org/abs/2606.19782)** — a deployable multi-agent pipeline for auditable financial chart QA. [Code](https://github.com/VectorInstitute/AgentFinVQA)

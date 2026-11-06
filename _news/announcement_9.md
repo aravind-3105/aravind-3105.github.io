@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as **Technical Lead** for the **Machine Learning Applications (MLA) Program** hosted by the [Vector Institute](https://vectorinstitute.ai/) for sponsor companies, delivering applied ML curriculum and technical mentorship.
+Serving as **Technical Lead** for Vector’s Fall **Machine Learning Associates (MLA)** program, supporting applied ML projects with sponsor organizations.

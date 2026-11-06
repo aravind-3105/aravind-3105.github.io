@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
-description: Articles on machine learning, AI systems, and engineering.
+description: Notes on machine learning, JAX, and building AI systems.
 nav: true
 nav_order: 4
 pagination:

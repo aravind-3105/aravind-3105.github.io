@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **"From Features to Actions: Explainability in Traditional and Agentic AI Systems"** has been accepted to the **Future Technologies Conference (FTC) 2026**! This work compares attribution-based explanations with trace-based diagnostics across static and agentic AI settings. [arXiv](https://arxiv.org/abs/2602.06841) | [Project Page](https://vectorinstitute.github.io/unified-xai-evaluation-framework/)
+**[From Features to Actions](https://arxiv.org/abs/2602.06841)** accepted at the **Future Technologies Conference (FTC) 2026**. [Project](https://vectorinstitute.github.io/unified-xai-evaluation-framework/)

@@ -1,44 +1,128 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@article{narayanan2026agentfinvqa,
-  abbr={Preprint},
-  title={AgentFinVQA: A Deployable Multi-Agent Pipeline for Auditable Financial Chart QA},
-  author={Narayanan, Aravind and Raza, Shaina},
-  journal={arXiv preprint arXiv:2606.19782},
+@article{raza2026humanibench,
+  abbr={ACM TIST},
+  title={{HumaniBench}: A Human-Centric Framework for Large Multimodal Models Evaluation},
+  author={Raza, Shaina and Narayanan, Aravind and Khazaie, Vahid Reza and Vayani, Ashmal and Radwan, Ahmed Y. and Chettiar, Mukund S. and Singh, Amandeep and Shah, Mubarak and Pandya, Deval},
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  volume={18},
+  number={1},
+  pages={1--26},
   year={2026},
-  abstract={Financial chart question answering in regulated settings demands more than accuracy: practitioners must know which answers to trust before acting on them, and many institutions cannot send client data to external model providers. We present AgentFinVQA, a multi-agent pipeline that decomposes each query into planning, OCR, legend grounding, visual inspection, and verification, recording every step in a traceable Model Evaluation Packet (MEP) per sample. AgentFinVQA improves +7.68 pp over a zero-shot baseline on FinMME while maintaining full auditability and on-premise deployability.},
-  arxiv={2606.19782},
-  pdf={https://arxiv.org/pdf/2606.19782},
-  note={Under Review},
-  selected={true}
-}
-
-@article{chaduvula2026xai,
-  abbr={FTC 2026},
-  title={From Features to Actions: Explainability in Traditional and Agentic AI Systems},
-  author={Chaduvula, Sindhuja and Ho, Jessee and Kim, Kina and Narayanan, Aravind and Radwan, Ahmed Y. and Alinoori, Mahshid and Garg, Muskan and Ramachandram, Dhanesh and Raza, Shaina},
-  booktitle={Future Technologies Conference (FTC)},
-  year={2026},
-  abstract={Over the last decade, Explainable AI has primarily focused on interpreting individual model predictions, producing post-hoc explanations that relate inputs to outputs under a fixed decision structure. Recent advances in large language models (LLMs) have enabled agentic AI systems whose behaviour unfolds over multi-step trajectories. In this work, we bridge this gap by comparing attribution-based explanations with trace-based diagnostics across both settings. Our results show that while attribution methods achieve stable feature rankings in static settings (Spearman ρ = 0.86), they cannot be applied reliably to diagnose execution-level failures in agentic trajectories.},
-  arxiv={2602.06841},
-  pdf={https://arxiv.org/pdf/2602.06841},
-  website={https://vectorinstitute.github.io/unified-xai-evaluation-framework/},
-  selected={true}
+  doi={10.1145/3845999},
+  abstract={Although recent large multimodal models (LMMs) show impressive progress on vision-language tasks, their alignment with human-centered principles such as fairness, ethics, inclusivity, empathy, and robustness is often overlooked. We present HumaniBench, a unified framework for characterizing human-centered alignment across realistic, socially grounded visual contexts. It contains 32,000 expert-verified image-question pairs from real-world news imagery, mapped to seven evaluation tasks and human-centered principles. Comparing 15 state-of-the-art LMMs reveals consistent trade-offs: proprietary systems lead on ethics, reasoning, and empathy, while open-source models show stronger visual grounding and resilience.},
+  arxiv={2505.11454},
+  pdf={https://arxiv.org/pdf/2505.11454},
+  html={https://dl.acm.org/doi/10.1145/3845999},
+  website={https://vectorinstitute.github.io/humanibench/},
+  code={https://github.com/VectorInstitute/HumaniBench},
+  additional_info={Also presented at the NeurIPS 2025 LLM Evaluation Workshop.},
+  selected={true},
+  bibtex_show={true}
 }
 
 @article{raza2025vldbench,
   abbr={Inf. Fusion},
   title={{VLDBench}: Evaluating Multimodal Disinformation with Regulatory Alignment},
   author={Raza, Shaina and Vayani, Ashmal and Jain, Aditya and Narayanan, Aravind and Khazaie, Vahid Reza and Bashir, Syed Raza and Dolatabadi, Elham and Uddin, Gias and Emmanouilidis, Christos and Qureshi, Rizwan and Shah, Mubarak},
-  journal={Information Fusion (Elsevier)},
+  journal={Information Fusion},
   year={2025},
-  abstract={We introduce the Vision-Language Disinformation Detection Benchmark (VLDBench), the first large-scale resource supporting both unimodal (text-only) and multimodal (text + image) disinformation detection. VLDBench comprises approximately 62,000 labeled text-image pairs across 13 categories, curated from 58 news outlets. Evaluations of state-of-the-art LLMs and VLMs show that incorporating visual cues improves detection accuracy by 5 to 35 percentage points over text-only models.},
+  abstract={We introduce the Vision-Language Disinformation Detection Benchmark (VLDBench), a large-scale resource supporting both unimodal (text-only) and multimodal (text + image) disinformation detection. VLDBench comprises approximately 62,000 labeled text-image pairs across 13 categories, curated from 58 news outlets. Evaluations of state-of-the-art LLMs and VLMs show that incorporating visual cues improves detection accuracy by 5 to 35 percentage points over text-only models.},
   arxiv={2502.11361},
   pdf={https://arxiv.org/pdf/2502.11361},
   html={https://www.sciencedirect.com/science/article/abs/pii/S1566253525011546},
   website={https://vectorinstitute.github.io/VLDBench/},
-  selected={true}
+  code={https://github.com/VectorInstitute/VLDBench},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{narayanan2026agentfinvqa,
+  abbr={NeurIPS W},
+  title={{AgentFinVQA}: An Auditable, On-Premise Multi-Agent Pipeline for Financial Chart {QA}},
+  author={Narayanan, Aravind and Raza, Shaina},
+  booktitle={NeurIPS 2026 Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks (AABA4ET)},
+  year={2026},
+  abstract={Financial chart question answering in regulated settings demands more than accuracy: practitioners must know which answers to trust before acting on them, and many institutions cannot send client data to external model providers. We present AgentFinVQA, a multi-agent pipeline that decomposes each query into planning, OCR, legend grounding, visual inspection, and verification, recording every step in a traceable Model Evaluation Packet (MEP) per sample. On FinMME, AgentFinVQA improves +7.68 pp over a model-matched zero-shot baseline while remaining auditable and on-premise deployable.},
+  arxiv={2606.19782},
+  pdf={https://arxiv.org/pdf/2606.19782},
+  website={https://vectorinstitute.github.io/AgentFinVQA/},
+  code={https://github.com/VectorInstitute/AgentFinVQA},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{elkady2026stress,
+  abbr={NeurIPS W},
+  title={Stress-Testing Efficient Responsible-{AI} Evaluation: When Compute Savings Change Benchmark Conclusions},
+  author={{El Kady}, Ahmed and Narayanan, Aravind and Noorani, Rehana and Ioannou, Yani and Raza, Shaina},
+  booktitle={NeurIPS 2026 Workshop on Trust-AI-Eval (TAE)},
+  year={2026},
+  abstract={Efficient evaluation changes the protocol used to support claims about model behavior, yet it is rarely tested whether those claims remain stable after the evaluation itself is made cheaper. We stress-test conclusion robustness in responsible-AI benchmarking by evaluating models on BBQ and BBQ-V under conditions spanning batching, quantization, benchmark reduction, and their combinations. Batching largely preserves quality, while aggressive benchmark reduction can change the conclusions the benchmark is intended to support.},
+  arxiv={2608.31108},
+  pdf={https://arxiv.org/pdf/2608.31108},
+  website={https://vectorinstitute.github.io/sustainable-rai-evaluation/},
+  code={https://github.com/VectorInstitute/sustainable-rai-evaluation},
+  selected={true},
+  bibtex_show={true}
+}
+
+@article{narayanan2026fairsense,
+  abbr={JOSS},
+  title={{FairSense-AgentiX}: An Agentic Platform for Multi-Modal Fairness and {AI} Risk Analysis},
+  author={Narayanan, Aravind and Sekhon, Karanpal and Alinoori, Mahshid and Raza, Shaina},
+  journal={Journal of Open Source Software},
+  volume={11},
+  number={126},
+  pages={11060},
+  year={2026},
+  doi={10.21105/joss.11060},
+  abstract={FairSense-AgentiX is an agentic platform for multimodal fairness and AI-risk analysis. It uses a reasoning agent that plans, selects tools, critiques outputs, and refines them iteratively to analyze text, images, and datasets for fairness concerns, rather than relying on a single static classifier.},
+  html={https://joss.theoj.org/papers/10.21105/joss.11060},
+  pdf={https://www.theoj.org/joss-papers/joss.11060/10.21105.joss.11060.pdf},
+  website={https://github.com/VectorInstitute/fairsense-agentix},
+  code={https://github.com/VectorInstitute/fairsense-agentix},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{chaduvula2026xai,
+  abbr={FTC},
+  title={From Features to Actions: Explainability in Traditional and Agentic {AI} Systems},
+  author={Chaduvula, Sindhuja and Ho, Jessee and Kim, Kina and Narayanan, Aravind and Radwan, Ahmed Y. and Alinoori, Mahshid and Garg, Muskan and Ramachandram, Dhanesh and Raza, Shaina},
+  booktitle={Future Technologies Conference (FTC)},
+  year={2026},
+  abstract={Over the last decade, Explainable AI has primarily focused on interpreting individual model predictions, producing post-hoc explanations that relate inputs to outputs under a fixed decision structure. Recent advances in large language models have enabled agentic AI systems whose behaviour unfolds over multi-step trajectories. We compare attribution-based explanations with trace-based diagnostics across both settings, and show that while attribution methods achieve stable feature rankings in static settings, they cannot be applied reliably to diagnose execution-level failures in agentic trajectories.},
+  arxiv={2602.06841},
+  pdf={https://arxiv.org/pdf/2602.06841},
+  website={https://vectorinstitute.github.io/unified-xai-evaluation-framework/},
+  bibtex_show={true}
+}
+
+@inproceedings{narayanan2025bias,
+  abbr={NeurIPS W},
+  title={Bias in the Picture: Benchmarking {VLMs} with Social-Cue News Images and {LLM}-as-Judge Assessment},
+  author={Narayanan, Aravind and Khazaie, Vahid Reza and Raza, Shaina},
+  booktitle={NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle},
+  year={2025},
+  abstract={Large vision-language models can jointly interpret images and text, but they are also prone to absorbing and reproducing harmful social stereotypes when visual cues such as age, gender, race, clothing, or occupation are present. We introduce a news-image benchmark of 1,343 image-question pairs annotated with ground-truth answers and demographic attributes, and evaluate state-of-the-art VLMs with an LLM-as-judge protocol. Visual context systematically shifts model outputs, bias prevalence varies across attributes, and higher faithfulness does not necessarily correspond to lower bias.},
+  arxiv={2509.19659},
+  pdf={https://arxiv.org/pdf/2509.19659},
+  bibtex_show={true}
+}
+
+@inproceedings{raval2025linguamark,
+  abbr={ASONAM},
+  title={{LinguaMark}: Do Multimodal Models Speak Fairly? A Benchmark-Based Evaluation},
+  author={Raval, Ananya and Narayanan, Aravind and Khazaie, Vahid Reza and Raza, Shaina},
+  booktitle={International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+  year={2025},
+  abstract={Large multimodal models are typically trained on vast image-text corpora but remain limited in linguistic coverage, leading to biased and unfair outputs across languages. LinguaMark evaluates LMMs on multilingual visual question answering with 6,875 image-text pairs spanning 11 languages and five social attributes, using Bias, Answer Relevancy, and Faithfulness as complementary metrics.},
+  arxiv={2507.07274},
+  pdf={https://arxiv.org/pdf/2507.07274},
+  website={https://vectorinstitute.github.io/linguamark/},
+  code={https://github.com/VectorInstitute/LinguaMark},
+  additional_info={Also presented at the NeurIPS 2025 LLM Evaluation Workshop.},
+  bibtex_show={true}
 }

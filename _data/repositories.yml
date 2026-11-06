@@ -4,9 +4,11 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - aravind-3105/Retinal-Blood-Vessels-Segmentation-and-Denoising
-  - aravind-3105/Time-scaling-based-collision-avoidance-maneuvers
-  - aravind-3105/Bernstein-Polynomial-Trajectories
-  - aravind-3105/Stereo-Reconstruction-PnP-and-Bundle-Adjustment
-  - aravind-3105/DLT-and-Epipolar-Lines
-  - aravind-3105/Rapidly-Exploding-Trees
+  - VectorInstitute/AgentFinVQA
+  - VectorInstitute/HumaniBench
+  - VectorInstitute/fairsense-agentix
+  - VectorInstitute/VLDBench
+  - VectorInstitute/LinguaMark
+  - VectorInstitute/unbias-plus
+  - VectorInstitute/sustainable-rai-evaluation
+  - aravind-3105/MoodSwing

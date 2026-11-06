@@ -2,53 +2,48 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description: Technical leadership, mentorship, and teaching assistantships.
 nav: true
 nav_order: 6
 ---
-<!-- 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like! -->
+### Interpretability in LLMs and Agents Bootcamp
+**Vector Institute · Technical Lead · 2026**  
+Industry bootcamp for Vector sponsor companies, covering mechanistic interpretability, agent tracing, preference alignment, and explainability for LLM- and agent-based systems.
 
+- Technical co-lead with [Shaina Raza](https://shainaraza.github.io/), supporting about 100 participants across 20 teams.
+- Built reference implementations used in the learn days, spanning agent tracing, observability, and interpretability tooling.
+- Mentored teams through proof-of-concept development during the build days.
 
-I have always loved to teach and I’ve had the opportunity to be a Teaching Assistant for many courses at IIIT Hyderabad. Here are some of the courses I have been a TA for:
+### Machine Learning Associates (MLA) Program
+**Vector Institute · Technical Lead · Fall 2026**  
+Applied machine learning program pairing students and recent graduates with industry projects in generative and agentic AI.
 
-<!-- ## Teaching Experience -->
+- Provide technical direction, mentorship, and project execution support across FastLane MLA teams.
+- Help sponsor organizations turn research ideas into deployable proofs of concept.
 
 ### Statistical Methods in AI
-**Winter 2023**  
-**Instructor**: Dr. Vineet Gandhi  
-- Taught various concepts in deep learning, including transfer learning, optimization methods, hyperparameter tuning, and regularization.
-- Developed and assessed assignments, and conducted evaluations and grading.
-- Mentored six final projects involving research in deep learning.
+**IIIT Hyderabad · Teaching Assistant · Winter 2023**  
+**Instructor**: Dr. Vineet Gandhi
+- Taught deep learning topics including transfer learning, optimization, hyperparameter tuning, and regularization.
+- Developed and assessed assignments, and mentored six final projects.
 
-### Robotics Operating System
-**RRC Summer School, Summer 2022**  
-**Instructor**: Dr. K Madhava Krishna  
-- Taught the basics of the Robot Operating System (ROS) at the summer school organized by the Robotics Research Centre.
-- Covered fundamentals of ROS, Gazebo, Rviz, and more.
+### Robot Operating System
+**Robotics Research Centre Summer School · Teaching Assistant · Summer 2022**  
+**Instructor**: Dr. K Madhava Krishna
+- Taught ROS, Gazebo, and RViz fundamentals at the RRC summer school.
 
 ### Introduction to Processor Architecture
-**Winter 2022**  
-**Instructor**: Dr. Deepak Gangadharan  
-- Focused on a project-heavy course involving the implementation of a 5-stage pipelined RISC-V processor.
-- Set up the GitHub organization, conducted project evaluations, and graded students' work.
+**IIIT Hyderabad · Teaching Assistant · Winter 2022**  
+**Instructor**: Dr. Deepak Gangadharan
+- Project-heavy course on a 5-stage pipelined RISC-V processor, including GitHub organization setup, evaluations, and grading.
 
 ### System Thinking
-**Monsoon 2021**  
-**Instructor**: Dr. Spandan Roy  
-- Mentored students in developing system dynamics models for common research problems.
-- Responsible for grading assignments and the final exam.
+**IIIT Hyderabad · Teaching Assistant · Monsoon 2021**  
+**Instructor**: Dr. Spandan Roy
+- Mentored students building system-dynamics models, and graded assignments and the final exam.
 
 ### Probability and Random Processes
-**Summer 2021**  
-**Instructor**: Dr. Lalitha Vadlamani  
-- Developed and administered assignments, invigilated exams, and graded student performance.
-
-
-
-
-
-
-
+**IIIT Hyderabad · Teaching Assistant · Summer 2021**  
+**Instructor**: Dr. Lalitha Vadlamani
+- Developed assignments, invigilated exams, and graded student work.
